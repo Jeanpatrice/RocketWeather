@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RocketWeather</string>
+    <string name="failed_to_fetch_data">Failed to fetch data</string>
+    <string name="unexpected_error">"Unexpected error "</string>
+    <string name="degrees">72</string>
+    <string name="day_of_week">Day</string>
+    <string name="unknown">Unknown</string>
+    <string name="enter_city">Enter City</string>
+    <string name="location">Location</string>
+    <string name="delete_page">Delete Current page</string>
+    <string name="radar_button">Radar button</string>
+    <string name="search_button">Search Button</string>
+
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+</resources>
